@@ -25,7 +25,13 @@
 /// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 /// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 /// THE SOFTWARE.
-
+//
+//
+//
+//
+//  Created by Tommie N. Carter, Jr., MBA on 9/26/2019.
+//  Copyright © 2019 MING Technology. All rights reserved.
+//
 import UIKit
 
 final class MainViewController: UIViewController {
